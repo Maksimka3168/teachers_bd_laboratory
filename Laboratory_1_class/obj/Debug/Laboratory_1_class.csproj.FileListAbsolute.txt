@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\bin\Debug\Laboratory_1_class.dll
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\bin\Debug\Laboratory_1_class.pdb
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\obj\Debug\Laboratory_1_class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\obj\Debug\Laboratory_1_class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\obj\Debug\Laboratory_1_class.dll
+C:\Users\User\Desktop\Laboratory\№14\Laboratory_1_class\Laboratory_1_class\obj\Debug\Laboratory_1_class.pdb
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\bin\Debug\Laboratory_1_class.dll
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\bin\Debug\Laboratory_1_class.pdb
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\obj\Debug\Laboratory_1_class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\obj\Debug\Laboratory_1_class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\obj\Debug\Laboratory_1_class.dll
+C:\Users\User\Desktop\Laboratory\№14\proga_menu_1\Laboratory_1_class\obj\Debug\Laboratory_1_class.pdb
